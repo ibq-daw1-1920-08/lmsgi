@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email xmlns="http://www.lmsgi.net/mail"
+xmlns:thu="http://www.lmsgi.net/thunderbird"
+xmlns:out="http://www.lmsgi.net/outlook"
+xmlns:evo="http://www.lmsgi.net/evolution">
+    <out:bloque >
+        <out:registro>
+            <out:gestor>Outlook</out:gestor>
+            <out:mensaje >
+                <out:destinatario>Pepe</out:destinatario>
+                <out:origen>Marcos</out:origen>   
+                <out:asunto>Se viene</out:asunto>
+                <out:cuerpo>Hay concierto el finde que viene , pillate las entradas</out:cuerpo>
+                <out:adjunto>entradas.jpg</out:adjunto>
+            </out:mensaje>
+        </out:registro>
+    </out:bloque>
+</email>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carta xmlns="htttp://www.lmsgi.net/carta"
+xmlns:bar="lmsgi.net/pizza1"
+xmlns:haw="lmsgi.net/pizza2"
+xmlns:que="lmsgi.net/pizza3"
+xmlns:mar="lmsgi.net/pizza4">
+    <bar:pizza nombre="Barbacoa" precio="8">
+        <ingrediente>Salsa Barbacoa</ingrediente>
+        <ingrediente>Pollo</ingrediente>
+        <ingrediente>Bacon</ingrediente>
+        <ingrediente>Jamón</ingrediente>
+        <ingrediente>Ternera</ingrediente>
+    </bar:pizza>
+    <haw:pizza nombre="Hawaiana" precio="7">
+        <ingrediente>Tomate</ingrediente>
+        <ingrediente>Mozarella</ingrediente>
+        <ingrediente>Jamón</ingrediente>
+        <ingrediente>Piña</ingrediente>
+        <ingrediente>Queso</ingrediente>
+    </haw:pizza>
+    <que:pizza nombre="4 Quesos" precio="7">
+        <ingrediente>Tomate</ingrediente>
+        <ingrediente>Mezcla de 4 quesos</ingrediente>
+    </que:pizza>
+    <mar:pizza nombre="Margarita" precio="6">   
+        <ingrediente>Tomate</ingrediente>
+        <ingrediente>Mozarella</ingrediente>
+        <ingrediente>Orégano</ingrediente>
+    </mar:pizza>
+</carta>
